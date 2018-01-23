@@ -23,7 +23,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => '127.0.0.1',
 		'login' => 'root',
-		'password' => '123456',
+		'password' => '',
 		'database' => 'agenda',
 		'prefix' => '',
 		//'encoding' => 'utf8',
