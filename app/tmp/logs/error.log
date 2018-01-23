@@ -1,0 +1,260 @@
+2018-01-23 11:12:12 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:12:12 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:17:11 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:17:11 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:18:27 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:18:27 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:19:19 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:19:19 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:22:23 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:22:23 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:23:41 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:23:41 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:25:23 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:25:23 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:27:50 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:27:50 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:28:22 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:28:22 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:35:41 Warning: Warning (512): C:\wamp\www\agenda\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:35:41 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:39:43 Warning: Warning (512): C:\wamp\www\agenda.local\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda.local\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - C:\wamp\www\agenda\lib\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:39:43 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda.local\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda.local\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda.local\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda.local\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda.local\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:41:53 Warning: Warning (512): C:\wamp\www\agenda.local\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda.local\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - C:\wamp\www\agenda\lib\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:41:53 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda.local\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda.local\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda.local\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda.local\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda.local\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
+2018-01-23 11:41:55 Warning: Warning (512): C:\wamp\www\agenda.local\app\tmp\cache\\app\ is not writable in [C:\wamp\www\agenda.local\lib\Cake\Cache\Engine\FileEngine.php, line 389]
+Trace:
+ErrorHandler::handleError() - C:\wamp\www\agenda\lib\Cake\Error\ErrorHandler.php, line 230
+FileEngine::_active() - CORE\Cake\Cache\Engine\FileEngine.php, line 389
+FileEngine::init() - CORE\Cake\Cache\Engine\FileEngine.php, line 90
+Cache::_buildEngine() - CORE\Cake\Cache\Cache.php, line 180
+Cache::config() - CORE\Cake\Cache\Cache.php, line 151
+include - APP\Config\bootstrap.php, line 73
+Configure::bootstrap() - CORE\Cake\Core\Configure.php, line 98
+include - CORE\Cake\bootstrap.php, line 439
+[main] - APP\webroot\index.php, line 90
+
+2018-01-23 11:41:55 Error: [CacheException] Cache engine "appCache" is not properly configured. Ensure required extensions are installed, and credentials/permissions are correct
+Stack Trace:
+#0 C:\wamp\www\agenda.local\lib\Cake\Cache\Cache.php(151): Cache::_buildEngine('appCache')
+#1 C:\wamp\www\agenda.local\app\Config\bootstrap.php(73): Cache::config('appCache', Array)
+#2 C:\wamp\www\agenda.local\lib\Cake\Core\Configure.php(98): include('C:\\wamp\\www\\age...')
+#3 C:\wamp\www\agenda.local\lib\Cake\bootstrap.php(439): Configure::bootstrap(true)
+#4 C:\wamp\www\agenda.local\app\webroot\index.php(90): include('C:\\wamp\\www\\age...')
+#5 {main}
