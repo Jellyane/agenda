@@ -18,7 +18,7 @@
  * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
 
-	Configure::write('debug', 0);
+	Configure::write('debug', 2);
 
 	Configure::write('Error', array(
 		'handler' => 'ErrorHandler::handleError',
